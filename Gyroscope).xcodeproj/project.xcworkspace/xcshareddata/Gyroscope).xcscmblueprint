@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C48A76428E3923B2DEF9B82F7F402AC9A3255D93",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74F87D882F192BE3C369626702D5EF9BFBFB008E" : 0,
+    "C48A76428E3923B2DEF9B82F7F402AC9A3255D93" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1EE1BBA4-282D-41FA-BECE-0DDE873D1E08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74F87D882F192BE3C369626702D5EF9BFBFB008E" : "..\/..",
+    "C48A76428E3923B2DEF9B82F7F402AC9A3255D93" : "Gyroscope)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Gyroscope)",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Gyroscope).xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cherrythia\/XcodeProtocolTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74F87D882F192BE3C369626702D5EF9BFBFB008E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cherrythia\/Tutorial-Accelerometer-and-Gyroscope.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C48A76428E3923B2DEF9B82F7F402AC9A3255D93"
+    }
+  ]
+}

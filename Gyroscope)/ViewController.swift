@@ -128,7 +128,7 @@ class ViewController: UIViewController {
             currentMaxRotY = rotation.y
         }
         
-        rotZ?.text = "\(rotation).2fr/s"
+        rotZ?.text = "\(rotation.z).2fr/s"
         
         if fabs(rotation.z) > fabs(currentMaxRotZ){
             currentMaxRotZ = rotation.z
